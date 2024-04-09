@@ -1,0 +1,397 @@
+Variable,变量 (biànliàng),表示内存中的一个存储空间,Programming Languages
+Function,函数 (hánshù),一段可重复执行的代码,Programming Languages
+Array,数组 (shùzǔ),一组相同类型的数据的集合,Programming Languages
+Loop,循环 (xúnhuán),重复执行一段代码,Programming Languages
+Condition,条件 (tiáojiàn),控制程序流程的结构,Programming Languages
+String,字符串 (zìfúchuan),文本数据类型,Programming Languages
+Integer,整数 (zhěngshù),表示整数的数据类型,Programming Languages
+Float,浮点数 (fúdiǎnshù),表示浮点数的数据类型,Programming Languages
+Boolean,布尔值 (bù'ěrzhí),表示真假的数据类型,Programming Languages
+Operator,运算符 (yùnsuànfú),执行操作的符号,Programming Languages
+Class,类 (lèi),一种数据结构,Programming Languages
+Object,对象 (duìxiàng),类的实例化对象,Programming Languages
+Inheritance,继承 (jīchéng),类之间的一种关系,Programming Languages
+Polymorphism,多态性 (duōtàixìng),同一种实体呈现多种形态,Programming Languages
+Encapsulation,封装 (fēngzhuāng),将数据与方法组合在一个单元内,Programming Languages
+Abstraction,抽象 (chōuxiàng),隐藏具体实现，展示核心功能,Programming Languages
+Pointer,指针 (zhǐzhēn),存储变量地址的数据类型,Programming Languages
+Compiler,编译器 (biānjìqì),将源代码转换为机器代码,Programming Languages
+Interpreter,解释器 (jiěshìqì),逐行执行源代码,Programming Languages
+Syntax,语法 (yǔfǎ),程序编写的规则,Programming Languages
+Semantic,语义 (yǔyì),程序的含义与行为,Programming Languages
+Debugging,调试 (tiáoshì),查找和解决程序中的错误,Programming Languages
+IDE,集成开发环境 (jíchéng kāifā huánjìng),编写、调试、编译程序的软件,Programming Languages
+Version Control,版本控制 (bǎnběn kòngzhì),跟踪和管理代码的修改历史,Programming Languages
+Module,模块 (mókuài),可重用的代码单元,Programming Languages
+Library,库 (kù),提供可重用函数的集合,Programming Languages
+API,应用程序接口 (yìngyòng chéngxù jiēkǒu),用于不同软件组件间通信的接口,Programming Languages
+Recursion,递归 (dìguī),函数调用自身的过程,Programming Languages
+Data Structure,数据结构 (shùjù jiégòu),组织和存储数据的方式,Programming Languages
+Algorithm,算法 (suànfa),解决问题的步骤和规则,Programming Languages
+Exception,异常 (yìcháng),程序运行时的错误,Programming Languages
+Event,事件 (shìjiàn),程序中发生的事情,Programming Languages
+Framework,框架 (kuàngjià),提供基础结构的软件,Programming Languages
+Dependency,依赖 (yīlài),一个组件需要另一个组件的支持,Programming Languages
+Compilation,编译 (biānjì),将源代码转换为可执行代码,Programming Languages
+Linker,链接器 (liànjiēqì),将不同模块合并为一个可执行文件,Programming Languages
+Static,静态的 (jìngtài de),在编译时确定的属性或特征,Programming Languages
+Dynamic,动态的 (dòngtài de),在运行时确定的属性或特征,Programming Languages
+HTML,超文本标记语言 (chāowénběn biāojì yǔyán),网页内容的结构化标记语言,Web Development Concepts
+CSS,层叠样式表 (céngdié yàngshì biǎo),控制网页样式和布局的语言,Web Development Concepts
+JavaScript,JavaScript,用于网页交互和动态效果的脚本语言,Web Development Concepts
+DOM,文档对象模型 (wénlù yàngshì biǎo),网页的编程接口,Web Development Concepts
+API,应用程序接口 (yìngyòng chéngxù jiēkǒu),用于不同软件组件间通信的接口,Web Development Concepts
+HTTP,超文本传输协议 (chāowénběn chuánshū xiéyì),在网络中传输超文本的协议,Web Development Concepts
+HTTPS,超文本传输安全协议 (chāowénběn chuánshū ānquán xiéyì),安全的超文本传输协议,Web Development Concepts
+URL,统一资源定位符 (tǒngyī zīyuán dìngwèi fú),网络资源的地址,Web Development Concepts
+DNS,域名系统 (yùmíng xìtǒng),将域名转换为 IP 地址的系统,Web Development Concepts
+Hosting,托管 (tuōguǎn),在服务器上存储网站的服务,Web Development Concepts
+Server,服务器 (fúwùqì),提供网站和应用程序的硬件或软件,Web Development Concepts
+Client,客户端 (kèhù duān),使用网络服务的用户端设备,Web Development Concepts
+Frontend,前端 (qián duān),用户界面和交互的部分,Web Development Concepts
+Backend,后端 (hòu duān),处理业务逻辑和数据存储的部分,Web Development Concepts
+Database,数据库 (shùjù kù),存储数据的集合,Web Development Concepts
+SQL,结构化查询语言 (jiégòu huìchá yǔyán),操作和管理数据库的语言,Web Development Concepts
+NoSQL,非关系型数据库 (fēi guānxì xíng shùjùkù),非结构化或非关系型数据的数据库,Web Development Concepts
+CMS,内容管理系统 (nèiróng guǎnlǐ xìtǒng),管理网站内容的软件系统,Web Development Concepts
+Responsive Design,响应式设计 (xiǎngyìng shì shèjì),根据设备和屏幕大小自动调整网页布局,Web Development Concepts
+SEO,搜索引擎优化 (sōusuǒ yǐnqíng yōuhuà),提升网站在搜索引擎中的排名,Web Development Concepts
+CDN,内容分发网络 (nèiróng fēnfā wǎngluò),分发网站内容以提高访问速度的网络,Web Development Concepts
+Framework,框架 (kuàngjià),提供基础结构的软件,Web Development Concepts
+Library,库 (kù),提供可重用函数的集合,Web Development Concepts
+MVC,模型-视图-控制器 (móxíng-shìtú-kòngzhìqì),软件架构模式，用于分离应用程序的不同方面,Web Development Concepts
+REST,表述性状态转移 (biǎoshù xìng zhuǎnyí),设计网络服务的一种架构风格,Web Development Concepts
+SPA,单页应用 (dānyè yìngyòng),在单个网页中加载所有资源的应用,Web Development Concepts
+Web Server,网络服务器 (wǎngluò fúwùqì),提供网页服务的软件或硬件,Web Development Concepts
+Cookies,Cookie,存储在用户设备上的数据,Web Development Concepts
+Session,会话 (huìhuà),一段时间内用户与网站的交互状态,Web Development Concepts
+Authentication,认证 (rènzhèng),验证用户身份的过程,Web Development Concepts
+Authorization,授权 (shòuquán),确定用户对资源的访问权限,Web Development Concepts
+Web Socket,网络套接字 (wǎngluò tàojiézǐ),在网络上实现全双工通信的协议,Web Development Concepts
+Webhook,网络钩子 (wǎngluò gōuzi),自动触发事件的回调机制,Web Development Concepts
+Scalability,可伸缩性 (kě shēnsuō xìng),系统根据负载动态调整性能的能力,Web Development Concepts
+Microservices,微服务 (wēi fúwù),将应用程序拆分成小型独立服务的架构,Web Development Concepts
+Progressive Web Apps,渐进式网页应用 (jiànjìnshì wǎngyè yìngyòng),使用现代 web 技术构建的具有原生应用体,Web Development Concepts
+IDE,集成开发环境 (jíchéng kāifā huánjìng),编写、调试、编译程序的软件,Web Development Tools and Techniques
+Text Editor,文本编辑器 (wénběn biānjíqì),编写和编辑文本文件的软件,Web Development Tools and Techniques
+Version Control,版本控制 (bǎnběn kòngzhì),跟踪和管理代码的修改历史,Web Development Tools and Techniques
+Git,Git,分布式版本控制系统,Web Development Tools and Techniques
+GitHub,GitHub,提供 Git 仓库托管服务,Web Development Tools and Techniques
+GitLab,GitLab,提供 Git 仓库托管服务,Web Development Tools and Techniques
+Bitbucket,Bitbucket,提供 Git 仓库托管服务,Web Development Tools and Techniques
+Terminal,终端 (zhōngduān),命行界面,Web Development Tools and Techniques
+Package Manager,包管理器 (bāo guǎnlǐqì),管理项目依赖项的工具,Web Development Tools and Techniques
+npm,npm,Node.js 包管理器,Web Development Tools and Techniques
+Yarn,Yarn,JavaScript 包管理器,Web Development Tools and Techniques
+Composer,Composer,PHP 包管理器,Web Development Tools and Techniques
+Web Browser,浏览器 (liúlǎnqì),显示网页内容的软件,Web Development Tools and Techniques
+Chrome,Chrome,谷歌浏览器,Web Development Tools and Techniques
+Firefox,Firefox,火狐浏览器,Web Development Tools and Techniques
+Safari,Safari,苹果浏器,Web Development Tools and Techniques
+Edge,Edge,微软浏览器,Web Development Tools and Techniques
+DevTools,开发者工具 (kāifāzhě gōngjù),浏览器提供的开发者工具,Web Development Tools and Techniques
+Linter,代码检查工具 (jiào dài jiǎnchá gōngjù),检查代码风格和错误的工具,Web Development Tools and Techniques
+ESLint,ESLint,JavaScript 代码检查工具,Web Development Tools and Techniques
+StyleLint,StyleLint,CSS 代码检查工具,Web Development Tools and Techniques
+Prettier,Prettier,格式化代码的工具,Web Development Tools and Techniques
+Task Runner,任务执行器 (rènwù zhíxíngqì),自动化执行开发任务的工具,Web Development Tools and Techniques
+Gulp,Gulp,基于流的任务执行工具,Web Development Tools and Techniques
+Grunt,Grunt,JavaScript 任务执行工具,Web Development Tools and Techniques
+Webpack,Webpack,JavaScript 模块打包工具,Web Development Tools and Techniques
+Babel,Babel,JavaScript 代码转换工具,Web Development Tools and Techniques
+SASS/SCSS,SASS/SCSS,CSS 预处理器,Web Development Tools and Techniques
+LESS,LESS,CSS 预处理器,Web Development Tools and Techniques
+Bootstrap,Bootstrap,前端开发框架,Web Development Tools and Techniques
+Tailwind CSS,Tailwind CSS,CSS 框架,Web Development Tools and Techniques
+React,React,前端 JavaScript 框架,Web Development Tools and Techniques
+Vue.js,Vue.js,前端 JavaScript 框架,Web Development Tools and Techniques
+Angular,Angular,前端 JavaScript 框架,Web Development Tools and Techniques
+Express.js,Express.js,Node.js Web 应用框架,Web Development Tools and Techniques
+Django,Django,Python Web 应用框架,Web Development Tools and Techniques
+Flask,Flask,Python Web 应用框架,Web Development Tools and Techniques
+REST API,REST API,通过 HTTP 请求进行数据交互的接口,Web Development Tools and Techniques
+GraphQL,GraphQL,数据查询语言和运行时,Web Development Tools and Techniques
+Docker,Docker,容器化平台,Web Development Tools and Techniques
+Kubernetes,Kubernetes,容器编排平台,Web Development Tools and Techniques
+Cloud Computing,云计算 (yún jìsuàn),通过网络提供计算服务,Cloud Computing
+Infrastructure as a Service (IaaS),基础设施即服务 (jīchǔ shèshī jí fúwù),提供计算基础设施的云服务,Cloud Computing
+Platform as a Service (PaaS),平台即服务 (píngtái jí fúwù),提供开发环境的云服务,Cloud Computing
+Software as a Service (SaaS),软件即服务 (ruǎnjiàn jí fúwù),提供软件应用的云服务,Cloud Computing
+Public Cloud,公有云 (gōngyǒu yún),多个用户共享的云服务,Cloud Computing
+Private Cloud,私有云 (sīyǒu yún),单个组织独享的云服务,Cloud Computing
+Hybrid Cloud,混合云 (hùnhé yún),结合公有云和私有云的云服务,Cloud Computing
+Cloud Provider,云服务提供商 (yún fúwù tígōng shāng),提供云计算服务的公司,Cloud Computing
+AWS,AWS,亚马逊云服务,Cloud Computing
+Microsoft Azure,微软 Azure,微软的云计算平台,Cloud Computing
+Google Cloud,Google 云 (Google yún),谷歌的云计算服务,Cloud Computing
+IBM Cloud,IBM 云 (IBM yún),IBM 的云计算平台,Cloud Computing
+Alibaba Cloud,阿里云 (Ālǐ yún),阿里巴巴的云计算服务,Cloud Computing
+Cloud Storage,云存储 (yún cúnchú),存储数据的云服务,Cloud Computing
+Virtual Machine (VM),虚拟机 (xūnǐ jī),在云中模拟的计算机实例,Cloud Computing
+Container,容器 (róngqì),封装应用程序及其依赖项的标准化单元,Cloud Computing
+Kubernetes,Kubernetes,容器编排平台,Cloud Computing
+Microservices,微服务 (wēi fúwù),将应用程序拆分成小型独立服务的架构,Cloud Computing
+Serverless Computing,无服务器计算 (wú fúwùqì jìsuàn),不需要管理服务器的计算模型,Cloud Computing
+Scalability,可伸缩性 (kě shēnsuō xìng),根据负载需求动态调整性能的能力,Cloud Computing
+Elasticity,弹性 (dàn xìng),根据负载需求动态扩展或收缩资源的能力,Cloud Computing
+Load Balancing,负载均衡 (fùzài jūnhéng),分配网络流量以平衡负载,Cloud Computing
+Auto Scaling,自动扩展 (zìdòng kuòzhǎn),根据负载需求自动扩展或缩减资源,Cloud Computing
+High Availability,高可用性 (gāo kěyòng xìng),系统持续可用的能力,Cloud Computing
+Disaster Recovery,灾难恢复 (zāinàn huīfù),系统在灾难后恢复正常运行的能力,Cloud Computing
+Data Backup,数据备份 (shùjù bèifèn),备份数据以防止数据丢失,Cloud Computing
+Data Replication,数据复制 (shùjù fùzhì),将数据复制到多个位置以提高可靠性,Cloud Computing
+CDN,内容分发网络 (nèiróng fēnfā wǎngluò),分发网站内容以提高访问速度的网络,Cloud Computing
+Security,安全性 (ānquán xìng),保护云服务免受威胁的措施,Cloud Computing
+IAM,身份和访问管理 (shēnfèn hé fǎngwèn guǎnlǐ),管理用户对资源的访问权限,Cloud Computing
+Encryption,加密 (jiāmì),使用密码将数据转换为不可读形式,Cloud Computing
+Firewall,防火墙 (fánghuǒqiáng),控制网络流量的安全设备,Cloud Computing
+DDoS Protection,分布式拒绝服务攻击防护 (fēnbùshì jùjué fúwù gōngjī fánhù),防分布式拒绝服务攻击的措施,Cloud Computing
+Compliance,合规性 (hégūi xìng),遵循法规和标准的程度,Cloud Computing
+Networking,网络 (wǎngluò),连接计算机和设备以实现信息交换的系统,Networking and Security
+Internet,互联网 (hùliánwǎng),全球范围内连接的计算机网络,Networking and Security
+LAN,局域网 (júyù wǎng),局部范围内连接的计算机网络,Networking and Security
+WAN,广域网 (guǎngyù wǎng),广域范围内连接的计算机网络,Networking and Security
+Router,路由器 (lùyóuqì),在不同网络之间转发数据包的设备,Networking and Security
+Switch,交换机 (jiāohuàn jī),在局域网中连接多台设备的网络设备,Networking and Security
+Firewall,防火墙 (fánghuǒqiáng),控制网络流量的安全设备,Networking and Security
+NAT,网络地址转换 (wǎngluò dìzhǐ zhuǎnhuàn),在私有网和公共网络之间转换 IP 地址的技术,Networking and Security
+VPN,虚拟私人网络 (xūnǐ sīrén wǎng),使用加密通道连接远程网络的技术,Networking and Security
+DNS,域名系统 (yùmíng xìtǒng),将域名转换为 IP 地址的系统,Networking and Security
+DHCP,动态主机配置协议 (dòngtài zhǔjī pèizhì xiéyì),自动分配 IP 地址的网络协议,Networking and Security
+IP Address,IP 地址,标识计算机或设备在网络中的位置,Networking and Security
+Subnet,子网 (zǐwǎng),在一个网络中进行划分的逻辑网络,Networking and Security
+TCP,传输控制协议 (chuánshū kòngzhì xiéyì),可靠的、面向连接的数据传输协议,Networking and Security
+UDP,用户数据报协议 (yònghù shùjù bào xiéyì),不可靠的、无接的数据传输协议,Networking and Security
+HTTP,超文本传输协议 (chāowénběn chuánshū xiéyì),在网络中传输超文本的协议,Networking and Security
+HTTPS,超文本传输安全协议 (chāowénběn chuánshū ānquán xiéyì),安全的超文本传输协议,Networking and Security
+SSL/TLS,SSL/TLS,安全套接层/传输层安全协议,Networking and Security
+IPsec,IPsec,IP 安全协议,Networking and Security
+SSH,SSH,安全外壳协议,Networking and Security
+WPA/WPA2/WPA3,WPA/WPA2/WPA3,Wi-Fi 网络安全协议,Networking and Security
+VLAN,虚拟局域网 (xūnǐ júyù wǎng),在交换机上创建的逻辑分区,Networking and Security
+IDS,入侵检测系统 (rùqīn jiǎncè xìtǒng),检测和防止网络入侵的系统,Networking and Security
+IPS,入侵防御系统 (rùqīn fángyù xìtǒng),阻止网络入侵的系统,Networking and Security
+Antivirus,杀毒软件 (shādú ruǎnjiàn),检测和清除计算机病毒的软件,Networking and Security
+Malware,恶意软件 (èyì ruǎnjiàn),对计算机系统造成破坏或窃取信息的软件,Networking and Security
+Phishing,网络钓鱼 (wǎngluò diàoyú),通过欺骗获取用户信息的攻击手段,Networking and Security
+Spoofing,欺骗攻击 (qīpiàn gōngjī),冒充合法用户的攻击方式,Networking and Security
+DDoS Attack,分布式拒绝服务攻击 (fēnbùshì jùjué fúwù gōngjī),使用多台计算机向目标发起拒绝服务攻击,Networking and Security
+Encryption,加密 (jiāmì),使用密码将数据转换为不可形式,Networking and Security
+Decryption,解密 (jiěmì),将加密数据恢复为可读形式,Networking and Security
+Two-factor Authentication (2FA),双因素认证 (shuāng yīnsù rènzhèng),使用两种不同的身份验证方法确保安全登录,Networking and Security
+Firewall,防火墙 (fánghuǒqiáng),控制网络流量的安全设备,Networking and Security
+VPN,虚拟私人网络 (xūnǐ sīrén wǎng),使用加密通道连接远程网络的技术,Networking and Security
+SSL/TLS,SSL/TLS,安全套接层/传输层安全协,Networking and Security
+Database,数据库 (shùjù kù),存储和组织数据的集合,Database Terminology
+SQL,结构化查询语言 (jiégòu huìchá yǔyán),操作和管理数据库的语言,Database Terminology
+Table,表 (biǎo),存储数据的二维数据结构,Database Terminology
+Row,行 (háng),表中的单个数据记录,Database Terminology
+Column,列 (liè),表中的数据字段,Database Terminology
+Primary Key,主键 (zhǔjiàn),唯一标识表中每行数据的字段,Database Terminology
+Foreign Key,外键 (wàijiàn),关联其他表的字段,Database Terminology
+Index,索引 (suǒyǐn),提高数据库检索效率的数据结构,Database Terminology
+Query,查询 (cháxún),从数据库中检索数据的请求,Database Terminology
+Join,连接 (liánjiē),结合多个表中的数据,Database Terminology
+Relational Database,关系型数据库 (guānxì xíng shùjùkù),使用表和关系模型存储数据的数据库,Database Terminology
+NoSQL,非关系型数据库 (fēi guānxì xíng shùjùkù),非结构化或非关系型数据的数据库,Database Terminology
+MongoDB,MongoDB,非关系型数据库管理系统,Database Terminology
+Redis,Redis,键值存储数据库,Database Terminology
+Cassandra,Cassandra,分布式 NoSQL 数据库,Database Terminology
+SQL Server,SQL Server,微软的关系型数据库管理系统,Database Terminology
+MySQL,MySQL,开源关系型数据库理系统,Database Terminology
+PostgreSQL,PostgreSQL,开源关系型数据库管理系统,Database Terminology
+Oracle,Oracle,商业关系型数据库管理系统,Database Terminology
+Backup,备份 (bèifèn),存储数据库副本以防止数据丢失,Database Terminology
+Restore,恢复 (huīfù),从备份中恢复数据库,Database Terminology
+Transaction,事务 (shìwù),一组数据库操作的单元,Database Terminology
+ACID,ACID,事务的四个特性：原子性、一致性、隔离性、持久性,Database Terminology
+CRUD,CRUD,数据库操作的四种基本操作：创建、读取、更新、删除,Database Terminology
+Stored Procedure,存储过程 (cúnchú guòchéng),存储在数据库中的一组预编译 SQL 语句,Database Terminology
+Trigger,触发器 (chùfā qì),在特定条件下自动执行的数据库操作,Database Terminology
+Replication,复制 (fùzhì),将数据从一个数据库复制到另一个数据库的过程,Database Terminology
+Sharding,分片 (fēnpiàn),水平拆分数据库以提高性能和可伸缩性,Database Terminology
+Scalability,可伸缩性 (kě shēnsuō xìng),系统根据负载需求动态调整性能的能力,Database Terminology
+Data Warehouse,数据仓库 (shùjù cángku),存储和管理大量数据的集合,Database Terminology
+Data Mining,数据挖掘 (shùjù wājué),从大型数据集中发现模式和信息的过程,Database Terminology
+OLAP,联机分析处理 (liánjī fēnxī chǔlǐ),在数据仓库中进行多维分析的过程,Database Terminology
+Backup,备份 (bèifèn),存储数据库副本以防止数据丢失,Database Terminology
+Restore,恢复 (huīfù),从备份中恢复数据库,Database Terminology
+Data Migration,数据迁移 (shùjù qiānyí),将数据从一个系统迁移到另一个系统的过程,Database Terminology
+Data Integrity,数据完整性 (shùjù wánzhěng xìng),数据的准确性和一致性,Database Terminology
+Algorithm,算法 (suàn fǎ),解决问题的一系列步骤,Algorithms and Data Structures
+Data Structure,数据结构 (shùjù jiégòu),组织和存储数据的方式,Algorithms and Data Structures
+Array,数组 (shùzǔ),存储相同类型数据的线性结构,Algorithms and Data Structures
+Linked List,链表 (lián biǎo),数据元素按顺序连接的数据结构,Algorithms and Data Structures
+Stack,栈 (zhàn),后进先出 (LIFO) 的数据结构,Algorithms and Data Structures
+Queue,队列 (duì liè),先进先出 (FIFO) 的数据结构,Algorithms and Data Structures
+Hash Table,哈希表 (hā shǐ biǎo),使用哈希函数存储键值对的数据结构,Algorithms and Data Structures
+Tree,树 (shù),分层次组织的数据结构,Algorithms and Data Structures
+Binary Tree,二叉树 (èr chá shù),每个节点最多有两个子节点,Algorithms and Data Structures
+Binary Search Tree,二叉搜索树 (èr chá sōu suǒ shù),有序的二叉树，支持快速搜索,Algorithms and Data Structures
+AVL Tree,AVL 树 (AVL shù),自平衡二叉搜索树,Algorithms and Data Structures
+Red-Black Tree,红黑树 (hóng hēi shù),自平衡二叉搜索树,Algorithms and Data Structures
+Graph,图 (tú),由节点和边组成的非线性结构,Algorithms and Data Structures
+Depth-First Search (DFS),深度优先搜索 (shēn dù yōu xiān sōu suǒ),从起始节点开始探索到底部，然后回溯,Algorithms and Data Structures
+Breadth-First Search (BFS),广度优先搜索 (guǎng dù yōu xiān sōu suǒ),从起始节点开始向外扩展，逐层搜索,Algorithms and Data Structures
+Dijkstra's Algorithm,迪杰斯特拉算法 (dí jié sī tè lā suàn fǎ),单源最短路径算法,Algorithms and Data Structures
+Bellman-Ford Algorithm,贝尔曼-福特算法 (bèi'ěr màn-fú tè suàn fǎ),单源最短路径算法,Algorithms and Data Structures
+Kruskal's Algorithm,克鲁斯卡尔算法 (kè lǔ sī kǎ ěr suàn fǎ),最小生成树算法,Algorithms and Data Structures
+Prim's Algorithm,普里姆算法 (pǔ lǐ mǔ suàn fǎ),最小生成树算法,Algorithms and Data Structures
+Dynamic Programming,动态规划 (dòng tài guī huà),通过分解问题为简单子问题来解决的算法,Algorithms and Data Structures
+Greedy Algorithm,贪心算法 (tān xīn suàn fǎ),每一步都选择局部最优解的算法,Algorithms and Data Structures
+Sorting Algorithm,排序算法 (páixù suàn fǎ),对数据集合进行排序的算法,Algorithms and Data Structures
+Bubble Sort,冒泡排序 (mào pào páixù),通过依次比较相邻元素并交换来排序,Algorithms and Data Structures
+Selection Sort,选择排序 (xuǎn zé páixù),选择最小元素并将其放置在正确位置,Algorithms and Data Structures
+Insertion Sort,插入排序 (chā rù páixù),逐步构建有序序列的排序算法,Algorithms and Data Structures
+Merge Sort,归并排序 (guī bìng páixù),分治法将数组分为较小的数组并逐步合并,Algorithms and Data Structures
+Quick Sort,快速排序 (kuài sù páixù),通过选择一个基准值将数组分为两部分,Algorithms and Data Structures
+Radix Sort,基数排序 (jī shù páixù),按照数值的每个位数依次排序,Algorithms and Data Structures
+Searching Algorithm,搜索算法 (sōu sù suàn fǎ),在数据集中查找特定元素的算法,Algorithms and Data Structures
+Linear Search,线性搜索 (xiàn xìng sōu suǒ),逐个元素检查直到找到目标元素,Algorithms and Data Structures
+Binary Search,二分搜索 (èr fēn sōu suǒ),在有序数组中查找目标元素,Algorithms and Data Structures
+Ternary Search,三分搜索 (sān fēn sōu suǒ),在有序数组中查找目标元素,Algorithms and Data Structures
+Bloom Filter,布隆过滤器 (bù lóng guò lǜ qì),快速检查元素是否在集合中的数据结构,Algorithms and Data Structures
+Trie,字典树 (zì diǎn shù),用于快速查找和存储字符串的数据结构,Algorithms and Data Structures
+Segment Tree,线段树 (xiàn duàn shù),用于区间查询的数据结构,Algorithms and Data Structures
+Fenwick Tree,树状数组 (shù zhuàng shù zǔ),用于快速计算区间和的数据结构,Algorithms and Data Structures
+Disjoint Set Union,并查集 (bìng chá jí),用于管理不相交集合的数据结构,Algorithms and Data Structures
+Minimum Spanning Tree,最小生成树 (zuì xiǎo shēng chéng shù),连接所有节点且权重最小的树,Algorithms and Data Structures
+Operating System,操作系统 (cāozuò xìtǒng),控制和管理计算机硬件和软件资源的软件,Operating Systems
+Kernel,内核 (nèi hé),操作系统的核心组件,Operating Systems
+Process,进程 (jìnchéng),在系统中运行的程序实例,Operating Systems
+Thread,线程 (xiànchéng),在进程内执行的单个执行流,Operating Systems
+Multi-threading,多线程 (duō xiànchéng),在一个进程中同时执行多个线程,Operating Systems
+Deadlock,死锁 (sǐ suǒ),多个进程因相互等待资源而无法继续执行的状态,Operating Systems
+Semaphore,信号量 (xìnhào liàng),用于线程同步的计数器,Operating Systems
+Mutex,互斥锁 (hùchì suǒ),用于线程同步的锁,Operating Systems
+File System,文件系统 (wénjiàn xìtǒng),用于组织和管理文件的系统,Operating Systems
+Virtual Memory,虚拟内存 (xūnǐ nèi cún),用磁盘空间扩展物理内存的技术,Operating Systems
+Paging,分页 (fēn yè),将物理内存划分为固定大小的块,Operating Systems
+Segmentation,分段 (fēn duàn),将进程地址空间划分为不同大小的段,Operating Systems
+CPU Scheduling,CPU 调度 (CPU diàodǔ),决定进程何时以及多久占用 CPU 的算法,Operating Systems
+Round Robin,轮转调度 (lún zhuǎn diàodǔ),将 CPU 时间片轮流分配给每个就绪进程的调度算法,Operating Systems
+Shortest Job First (SJF),最短作业优先 (zuì duǎn zuòyè yōuxiān),优先执行估计执行时间最短的进程,Operating Systems
+Priority Scheduling,优先级调度 (yōuxiān jí diàodǔ),根据进程优先级分配 CPU 时间的调度算法,Operating Systems
+Deadlock Avoidance,死锁避免 (sǐ suǒ bìmiǎn),通过预防死锁的条件来避免死锁,Operating Systems
+Deadlock Detection,死锁检测 (sǐ suǒ jiǎncè),检测系统中是否存在死锁的算法,Operating Systems
+Deadlock Recovery,死锁恢复 (sǐ suǒ huīfù),通过中断进程或资源剥夺来解除死锁,Operating Systems
+File Allocation Table (FAT),文件分配表 (wénjiàn fēnpèi biǎo),用于跟踪文件在磁盘上存储位置的数据结构,Operating Systems
+NTFS,新技术文件系统 (xīn jìshù wénjiàn xìtǒng),微软 Windows 的文件系统,Operating Systems
+Ext4,扩展文件系统 (kuòzhǎn wénjiàn xìtǒng),Linux 的文件系统,Operating Systems
+FAT32,FAT32,支持较大磁盘和文件的文件系统,Operating Systems
+RAID,磁盘阵列 (cípán zhenliè),将多个硬盘组合为一个逻辑单元的技术,Operating Systems
+Page Replacement Algorithm,页面置换算法 (yèmiàn zhìhuàn suàn fǎ),决定哪些页面从内存中替换出去的算法,Operating Systems
+LRU (Least Recently Used),最近最少使用 (zuì jìn zuìshǎo shǐyòng),根据最近使用的页面替换最久未使用的页面,Operating Systems
+FIFO (First In,First Out),先进先出 (xiān jìn xiān chū),根据页面进入内存的先后顺序替换页面,Operating Systems
+Buffer,缓冲区 (huǎn qū),临时存放数据的区域,Operating Systems
+Spooling,反复 (fǎnfù),将计算机输出数据暂时存储在磁盘上以供后续处理,Operating Systems
+Shell,壳 (ké),用户与操作系统交互的界面,Operating Systems
+Batch Processing,批处理 (pī chǔlǐ),一次性处理一组作业的技术,Operating Systems
+Virtualization,虚拟化 (xūnǐhuà),将物理资源抽象为虚拟资源的技术,Operating Systems
+Blockchain,区块链 (qūkuài liàn),一种分布式数据库系统，用于记录交易数据的不可篡改的链式结构,Blockchain
+Cryptocurrency,加密货币 (jiāmì huòbì),使用加密技术保障安全性并管理货币发行和交易的数字资产,Blockchain
+Bitcoin,比特币 (bǐtèbì),最早的、最知名的加密货币,Blockchain
+Ethereum,以太坊 (yǐtàifāng),一种基于区块链技术的开源平台，支持智能合约和分布式应用开发,Blockchain
+Smart Contract,智能合约 (zhìnéng héyuē),自动执行合约条款的计算机协议,Blockchain
+Consensus Mechanism,共识机制 (gòngsī jīzhì),区块链网络中用于确认交易的一致性算法,Blockchain
+Proof of Work (PoW),工作量证明 (gōngzuòliàng zhèngmíng),通过解决数学难题来确认交易的共识机制,Blockchain
+Proof of Stake (PoS),股权证明 (gǔquán zhèngmíng),根据持有的加密货币数量来确认交易的共识机制,Blockchain
+Mining,挖矿 (wākuàng),通过解决密码学难题来确认交易并生成新货币的过程,Blockchain
+Node,节点 (jiédiǎn),运行区块链协议软件的网络设备,Blockchain
+Wallet,钱包 (qiánbāo),存储加密货币的数字钱包,Blockchain
+Hash,哈希 (hāshì),将数据转换为固定长度的唯一标识符的算法,Blockchain
+Block,区块 (qūkuài),存储交易数据的链式结构单元,Blockchain
+Transaction,交易 (jiāoyì),在区块链上发生的货币转移或数据传输操作,Blockchain
+Distributed Ledger,分布式账本 (fēnbùshì zhàngběn),在多个地点同时存储的交易记录数据库,Blockchain
+Merkle Tree,Merkle 树 (Merkle shù),用于验证区块数据完整性的二叉树结构,Blockchain
+Cryptography,密码学 (mìmǎ xué),使用数学原理保护信息安全的学科,Blockchain
+Fork,分叉 (fēnchā),区块链网络中发生的分支事件,Blockchain
+Hard Fork,硬分叉 (yìng fēnchā),导致区块链分裂成两个独立链的分叉事件,Blockchain
+Soft Fork,软分叉 (ruǎn fēnchā),引入新规则但不会导致分裂的分叉事件,Blockchain
+Public Key,公钥 (gōng yuè),加密货币交易中的接收地址,Blockchain
+Private Key,私钥 (sī yuè),加密货币交易的签名密钥,Blockchain
+Immutable,不可变 (bùkě biàn),区块链上的交易记录一旦写入后就无法更改,Blockchain
+Decentralization,去中心化 (qù zhōngxīng huà),区块链网络中权力和控制的分散,Blockchain
+Permissioned Blockchain,许可区块链 (xǔkě qūkuài liàn),需要许可才能参与的区块链网络,Blockchain
+Permissionless Blockchain,无许可区块链 (wú xǔkě qūkuài liàn),任何人都可以参与的区块链网络,Blockchain
+ICO (Initial Coin Offering),首次代币发行 (shǒucì dàibiàn fāxíng),加密货币项目通过发行代币来筹集资金的方式,Blockchain
+DApp (Decentralized Application),去中心化应用 (qù zhōngxīng huà yìngyòng),基于区块链技术构建的应用程序,Blockchain
+Artificial Intelligence (AI),人工智能 (Réngōng Zhìnéng),人工智能的研究领域,Artifical Intelligence (AI)
+Machine Learning (ML),机器学习 (Jīqì Xuéxí),计算机学习的算法和技术,Artifical Intelligence (AI)
+Neural Network,神经网络 (Shénjīng Wǎngluò),一种模仿人脑神经网络的算法,Artifical Intelligence (AI)
+Deep Learning,深度学习 (Shēndù Xuéxí),多层神经网络的学习方法,Artifical Intelligence (AI)
+Supervised Learning,监督学习 (Jiāndū Xuéxí),有标签数据指导下的学习,Artifical Intelligence (AI)
+Unsupervised Learning,无监督学习 (Wú Jiāndū Xuéxí),无需标签数据进行的学习,Artifical Intelligence (AI)
+Reinforcement Learning,强化学习 (Qiánghuà Xuéxí),通过奖励和惩罚学习的方法,Artifical Intelligence (AI)
+Data Mining,数据挖掘 (Shùjù Wājué),从大量数据中提取模式和信息,Artifical Intelligence (AI)
+Natural Language Processing (NLP),自然语言处理 (Zìrán Yǔyán Chǔlǐ),计算机处理和理解自然语言的能力,Artifical Intelligence (AI)
+Image Recognition,图像识别 (Túxiàng Shíbié),计算机识别和分析图像的技术,Artifical Intelligence (AI)
+Speech Recognition,语音识别 (Yǔyīn Shíbié),计算机理解和转录语音的技术,Artifical Intelligence (AI)
+Regression Analysis,回归分析 (Huíguī Fēnxi),预测变量之间关系的统计方法,Artifical Intelligence (AI)
+Clustering,聚类 (Jùlèi),将数据分成组的无监督学习方法,Artifical Intelligence (AI)
+Dimensionality Reduction,降维 (Jiàngwéi),减少数据特征数量的技术,Artifical Intelligence (AI)
+Anomaly Detection,异常检测 (Yìcháng Jiǎncè),发现数据中不寻常模式的技术,Artifical Intelligence (AI)
+Decision Tree,决策树 (Juécè Shù),通过树形图表示决策过程的模型,Artifical Intelligence (AI)
+Random Forest,随机森林 (Suíjī Sēnlín),由多个决策树组成的集成学习模型,Artifical Intelligence (AI)
+Support Vector Machine (SVM),支持向量机 (Zhīchí Xiàngliàng Jī),用于分类和回归分析的机器学习算法,Artifical Intelligence (AI)
+K-Nearest Neighbors (KNN),K近邻算法 (K Jìnlín Suànfa),基于近邻点进行分类和回归的算法,Artifical Intelligence (AI)
+Gradient Boosting,梯度提升 (Tīdù Tíshēng),通过逐步优化模型提高预测准确度的算法,Artifical Intelligence (AI)
+GPT,生成式预训练转换器 (Shēngchéngshì Yù Xùnliànjìan Zhuǎnhuànqì),开放式AI预训练模型,Artifical Intelligence (AI)
+Transformer Model,转换器模型 (Zhuǎnhuànqì Móxíng),使用自注意力机制的神经网络模型,Artifical Intelligence (AI)
+Pre-trained Model,预训练模型 (Yù Xùnliànjìan Móxíng),在大型数据集上预先训练的模型,Artifical Intelligence (AI)
+Natural Language Understanding (NLU),自然语言理解 (Zìrán Yǔyán Lǐjiě),计算机理解自然语言的能力,Artifical Intelligence (AI)
+Text Generation,文本生成 (Wénběn Shēngchéng),利用模型生成文本的技术,Artifical Intelligence (AI)
+Contextual AI,上下文人工智能 (Shàngxià Wén Rén Gōngzhìnéng),能理解和处理上下文的AI,Artifical Intelligence (AI)
+Language Modeling,语言建模 (Yǔyán Jiànmó),学习语言规律并生成文本的技术,Artifical Intelligence (AI)
+Fine-tuning,微调 (Wēitiáo),调整预训练模型以适特定任务的过程,Artifical Intelligence (AI)
+Attention Mechanism,注意力机制 (Zhùyìlì Jīzhì),模型关注输入中的相关部分的机制,Artifical Intelligence (AI)
+Encoder,编码器 (Biānmǎ Qì),将输入数据转换为隐藏表示的部分,Artifical Intelligence (AI)
+Decoder,解码器 (Jiěmǎ Qì),将隐藏表示转换为输出数据的部分,Artifical Intelligence (AI)
+Tokenization,分词 (Fēncí),将文本分割成离散单位的过程,Artifical Intelligence (AI)
+Fine-tuning Data,微调数据 (Wēitiáo Shùjù),用于调整模型的特定任务数据,Artifical Intelligence (AI)
+Prompt Engineering,提示工程 (Tíshì Gōngchéng),设计和优化输入提示以影响模型生成,Artifical Intelligence (AI)
+Transfer Learning,迁移学习 (Qiān Yì Xuéxí),利用先前学习经验解决新任务的方法,Artifical Intelligence (AI)
+Self-Attention,自注意力 (Zì Zhùyìlì),模型在处理序列数据时关注其不同部分的能力,Artifical Intelligence (AI)
+Multi-head Attention,多头注意力 (Duōtóu Zhùyìlì),使用多个注意力头进行特征提取的机制,Artifical Intelligence (AI)
+Generation Pipeline,生成管道 (Shēngchéng Guǎndào),将模型应用于生成任务的流程,Artifical Intelligence (AI)
+Inference Engine,推理引擎 (Tuīlǐ Yǐnqíng),执行模型预测和生成的组件,Artifical Intelligence (AI)
+Context Window,上下文窗口 (Shàngxià Wēikuāng),在生成过程中考虑的输入上下文大小,Artifical Intelligence (AI)
+DevOps,开发运维 (Kāifā Yùnwéi),一种软件开发和运维的方法论,DevOps
+Continuous Integration (CI),持续集成 (Chíxù Jíchéng),将代码频繁集成到共享存储库的实践,DevOps
+Continuous Delivery (CD),持续交付 (Chíxù Jiāofù),将应用程序的改变自动交付到生产环境,DevOps
+Infrastructure as Code (IaC),代码即基础设施 (Dài Mǎ Jí Jīchǔ Shèshī),以可执行的代码形式管理基础设施,DevOps
+Automation,自动化 (Zìdòng Huà),自动执行重复性任务的过程,DevOps
+Deployment Pipeline,部署管道 (Bùshǔ Guǎndào),自动化执行软件部署流程的工具链,DevOps
+Microservices,微服务 (Wēifúwù),将应用程序构建为小型、自治的服务,DevOps
+Containerization,容器化 (Róngqì Huà),将应用程序和其依赖项打包到容器中,DevOps
+Kubernetes,Kubernetes,用于自动部署、扩展和管理容器化应用程序的开源系统,DevOps
+Docker,Docker,一种用于打包、交付和运行应用程序的容器平台,DevOps
+Version Control,版本控制 (Bǎnběn Kòngzhì),管理代码变更历史的工具,DevOps
+Monitoring,监控 (Jiānkòng),持续监视系统性能和状态的过程,DevOps
+Logging,日志记录 (Rìzhì Jìlù),记录应用程序产生的事件和状态信息,DevOps
+Incident Management,事故管理 (Shìgù Guǎnlǐ),处理和解决系统故障和问题的过程,DevOps
+Scalability,可扩展性 (Kě Kuòzhǎn Xìng),系统根据负载变化而自动扩展能力,DevOps
+Configuration Management,配置管理 (Pèizhì Guǎnlǐ),管理软件和系统配置的过程,DevOps
+Git,Git,一种分布式版本控制系统,DevOps
+Jenkins,Jenkins,用于自动化软件开发流程的持续集成工具,DevOps
+Ansible,Ansible,一种用于自动化配置管理和应用程序部署的工具,DevOps
+Terraform,Terraform,用于创建、管理和配置基础设施的工具,DevOps
+Solution Architect,解决方案架构师 (Jiějué Fāng'àn Jiàgòu Shī),设计和指导实施整体技术解决方案的专业人员,DevOps
+Architecture Design,架构设计 (Jiàgòu Shèjì),设计系统结构和组件之间关系的过程,DevOps
+Technical Design,技术设计 (Jìshù Shèjì),设计系统实现细节和技术选择的过程,DevOps
+Requirements Analysis,需求分析 (Xūqiú Fēnxī),理解和确定系统功能和性能要求的过程,DevOps
+Scalability Planning,可扩展性规划 (Kě Kuòzhǎn Xìng Guīhuà),规划系统如何根据需求增长而扩展的过程,DevOps
+High Availability Design,高可用性设计 (Gāo Kěyòng Xìng Shèjì),设计确保系统持续可用性的方案,DevOps
+Disaster Recovery Planning,灾难恢复规划 (Zāinàn Huīfù Guīhuà),规划系统遭受灾难后如何恢复正常运行的过程,DevOps
+Security Architecture,安全架构 (Ānquán Jiàgòu),设计和实施保护系统安全性的技术和策略,DevOps
+Integration Design,集成设计 (Jíchéng Shèjì),设计系统与外部系统和组件集成的方式,DevOps
+Performance Optimization,性能优化 (Xìngnéng Yōuhuà),优化系统响应时间和资源利用率的过程,DevOps
+Cloud Architecture,云架构 (Yún Jiàgòu),设计基于云计算平台的系统架构,DevOps
+Data Architecture,数据架构 (Shùjù Jiàgòu),设计数据存储、管理和处理的架构,DevOps
+Application Architecture,应用架构 (Yìngyòng Jiàgòu),设计应用程序结构和组件之间的关系,DevOps
+Network Architecture,网络架构 (Wǎngluò Jiàgòu),设计系统网络拓扑和通信协议的结构,DevOps
+API Design,API设计 (API Shèjì),设计应程序接口的结构和规范,DevOps
+DevOps Integration,DevOps集成 (Kāifā Yùnwéi Jíchéng),将解决方案设计与DevOps实践相集成的过程,DevOps
+Cost Optimization,成本优化 (Chéngběn Yōuhuà),优化系统运行成本和资源使用的过程,DevOps
+Solution Validation,解决方案验证 (Jiějué Fāng'àn Yànzhèng),确保设计解决方案符合需求和期望的过程,DevOps
+Governance and Compliance,治理和合规性 (Zhìlǐ hé Héguīxìng),设计确保系统遵守规定标准和法规的过程,DevOps
